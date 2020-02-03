@@ -21,9 +21,9 @@ Below are the step by step instructions for running the project:
 
 -Unzip env.zip (env.zip is located in the project folder)and open it in the editor (for example visual studio code/notepadd++) and update DB_DATABASE field with "laravel4", DB_USERNAME and DB_PASSWORD with your phpmyadmin username and password - in my case it was "root" and password was none.
 
--Open the command prompt in windows and select the project directory (for example type cd c:/xampp/htdocs/myapp-master) press enter. Once your are in the project directory type "composer install" and press enter.
+-Open the command prompt in windows and select the project directory (for example type cd c:/xampp/htdocs/laraveldemo-master) press enter. Once your are in the project directory type "composer install" and press enter.
 
--Run the project on the local server in your browser(for example localhost/myapp-master/).
+-Run the project on the local server in your browser(for example localhost/laraveldemo-master/).
 
 
 Main
