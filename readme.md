@@ -19,7 +19,7 @@ Below are the step by step instructions for running the project:
 
 -Create a database, laravel4.sql in phpmyadmin and import tables from laravel4.sql file (located in the project folder).
 
--Unzip env.zip (env.zip is located in the project folder)and open it in the editor (for example visual studio code/notepadd++) and update DB_DATABASE field with "database name"(or mydb1 as per example), DB_USERNAME and DB_PASSWORD with your phpmyadmin username and password - in my case it was "root" and password was none.
+-Unzip env.zip (env.zip is located in the project folder)and open it in the editor (for example visual studio code/notepadd++) and update DB_DATABASE field with "laravel4", DB_USERNAME and DB_PASSWORD with your phpmyadmin username and password - in my case it was "root" and password was none.
 
 -Open the command prompt in windows and select the project directory (for example type cd c:/xampp/htdocs/myapp-master) press enter. Once your are in the project directory type "composer install" and press enter.
 
